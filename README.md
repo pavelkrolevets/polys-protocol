@@ -1,5 +1,7 @@
 # Polys Protocol
 
+## UPD: UPD: We realize that preparation of the open-source Polys protocol code has dragged on, but we’re doing everything we possibly can to speed up the process. We’re currently resolving some legal issues and hope to publish the code in the near future.
+
 ## UPD: We’re still preparing the open-source Polys protocol code. It is taking longer than expected, but we’re doing our best to make the code public as soon as possible. We are currently auditing the Polys protocol code internally.
 
 We are currently preparing to open-source our Polys protocol code. That means you’ll soon be able to verify and audit the code for yourself. Moreover, you’ll be able to look through our current Ethereum Smart Contracts and the beta version of the JS library.
